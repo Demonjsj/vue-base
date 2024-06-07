@@ -1,10 +1,8 @@
-# 介绍
+# Introduce
 
-## 这是一个 `vue3` 管理系统的脚手架，全局安装完后，直接 `vue-basic` 可快速创建项目。
+## you can use `vue-basic` command line to create a vue3 admin template.
 
-# 安装
+# Install
 
-```javascript
-npm i vue-basic -g
-```
+## npm i vue-basic -g
 
