@@ -1,8 +1,12 @@
 # Introduce
 
-## you can use `vue-basic` command line to create a vue3 admin template.
+You can use `vue-basic` command line to create a vue3 admin template.
 
-# Install
+## Installation
 
-## npm i vue-basic -g
+Using npm:
+
+```shell
+npm i vue-basic -g
+```
 
