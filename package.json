@@ -1,6 +1,6 @@
 {
   "name": "vue-basic",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "a cli for vue3 admin template",
   "type": "module",
   "bin": {
@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/Demonjsj/vue-basic.git"
   },
-  "keywords": [],
+  "keywords": [
+    "vue3",
+    "template"
+  ],
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/Demonjsj/vue-basic/blob/main/README.md",
